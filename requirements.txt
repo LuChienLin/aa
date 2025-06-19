@@ -1,0 +1,3 @@
+streamlit
+numpy
+import matplotlib.pyplot as plt
